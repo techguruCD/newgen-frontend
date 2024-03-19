@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Install 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Make sure you are in the top level directory `fronted/` and then run `npm i`
 
 ## Available Scripts
 
